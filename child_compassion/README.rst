@@ -16,7 +16,7 @@ Compassion Children
 
 |badge1| |badge2| 
 
-Compassion Childpool Availability Management objects.
+Compassion Childpool Availability Management objects. Hello
 
 Setup Compassion children, Church Partners, Field Offices and related objects for exchanging
 data between GPA and GMC Connect (following TCPT R4 designs).
